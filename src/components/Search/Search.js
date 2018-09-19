@@ -12,12 +12,10 @@ const Search = () => {
           <ControlLabel>Working example with validation</ControlLabel>
           <FormControl
             type="text"
-            
+
             placeholder="Enter text"
 
           />
-          <FormControl.Feedback />
-
         </FormGroup>
       </form>
     </div>
